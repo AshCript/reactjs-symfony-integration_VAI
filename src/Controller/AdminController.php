@@ -161,7 +161,6 @@ class AdminController extends AbstractController
             "marques" => $finalUniqMarques
         ]);
     }
-    
 
     /**
      * @Route("/admin/produit/new", name="admin_create_prod")
